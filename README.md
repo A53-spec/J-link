@@ -1,4 +1,4 @@
 # J-link
 FT4232H programmer
 
-![alt text](https://github.com/A53-spec/J-link/top.jpg?raw=true)
+![alt text](https://github.com/A53-spec/J-link/top.png?raw=true)
